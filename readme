@@ -1,0 +1,11 @@
+Title:A structural anomaly detection method based on fusion interval
+representation of multi-grained morphological information
+
+Datasets:ECG datasets,astronomical spectra
+
+Highlights:
+Multi-grained morphological based fusion interval representation is designed.
+HLDD based on LBP is obtained to portray local morphological.
+Interval boundary is adaptively adjusted by mining the numerical dispersion.
+
+Code comes soon.
